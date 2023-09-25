@@ -1,6 +1,6 @@
 # Terraform Beginner Bootcamp 2023
 
-## Semantic Veersioning
+## Semantic Veersioning :mage:
 
 Given a version number **MAJOR.MINOR.PATCH**, increment the:
 
